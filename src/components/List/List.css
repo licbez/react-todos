@@ -1,0 +1,12 @@
+.column {
+  margin-left: 4%;
+}
+
+.description {
+  width: 67%;
+}
+
+.row {
+  margin: 1%;
+  border-bottom: 1px solid black;
+}
